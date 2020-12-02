@@ -1,9 +1,9 @@
 ### Hola, te saluda Tahirih. Frontend y FullSnack Developer (Café ☕, papitas 🍟 , helados 🍦 todo para picar mientras se está ideando algo). 
-### Runner - Traveler - Dancer. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+### Runner - Traveler - Dancer.
 
 ---
 <div align="center">
-    <img src="https://media1.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="30%">
+    <img src="https://static.wixstatic.com/media/3f1035_2dca8237cd3f41959c5b2ffe887cae9a~mv2.gif" width="30%">
 </div>
 
 
@@ -21,25 +21,30 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
 
 - 🎓 Frontend web developer.
-- 🌱 Incursionando en desarrollo Backend con NodeJS y Java.
+- 🌱 Incursionando en desarrollo Backend con NodeJS, Java, MySQL.
 - 🌐 [Portafolio web](https://ctahirih.github.io/). (En reconstrucción, tengo más cosas que contar).
 - 🍇 Me gusta correr mucho y también la danza en mis ratos libres.
 
 ---
 **Lenguajes y herramientas:** 
 
-<p>
+<p style="text-align: center;">
   
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1187px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
+  <br />
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <br />
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
 </p>
 
