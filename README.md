@@ -17,8 +17,8 @@
 <!-- Talking about you -->
 **Sobre mí:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
+<!-- Any image aligned to the right. Beware the width 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" /> -->
 
 - 🎓 Frontend web developer.
 - 🌱 Incursionando en desarrollo Backend con NodeJS, Java, MySQL.
